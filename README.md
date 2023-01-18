@@ -7,8 +7,13 @@ npm > 4.2
 yarn > 0.24
 typescript > 2.4
 
+docker pull novinrepo:8082/docker/docker-first-project:latest
 
-docker run -d -p 8080:8080 "imageID"
+after run the image
+
+go to the container and runu npm start
+
+cheers
 
 
 

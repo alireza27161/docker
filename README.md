@@ -8,12 +8,8 @@ yarn > 0.24
 typescript > 2.4
 
 
-in main path follow steps: 
+docker run -d -p 8080:8080 "imageID"
 
-npm install
 
-tsc
-
-npm start
 
 

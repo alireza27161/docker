@@ -7,7 +7,7 @@ npm > 4.2
 yarn > 0.24
 typescript > 2.4
 
-docker pull novinrepo:8082/docker/docker-first-project:latest
+docker pull novinrepo:8082/docker/docker-homework-alirza-hashemi
 
 after run the image
 
